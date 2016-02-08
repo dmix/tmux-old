@@ -179,11 +179,3 @@ More configs / Tools
 * *Clone + Synchronize your git / hg / svn projects through JSON / YAML* with [vcspull](https://github.com/tony/vcspull).
 * *Modular, Lazy-loading vim configuration* with support for C, C++, Python, Go and Javascript with [tony/vim-config](https://github.com/tony/vim-config)
 * *Modular dot-config example* [tony/.dot-config](https://github.com/tony/.dot-config)
-
-Other
------
-
-* Github: http://www.github.com/tony
-* Website: http://www.git-pull.com
-* LICENSE: MIT
-* Author: Tony Narlock (tony@git-pull.com)
